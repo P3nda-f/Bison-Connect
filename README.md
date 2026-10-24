@@ -10,6 +10,9 @@ Bison Mentor Match solves this by providing a sleek, centralized, and accessible
 
 How It Works: The Interactive Experience: 
 The application leverages a modern, engaging interface to make finding the right professional connection seamless:
+
 The Onboarding Quiz: Users select their role (Alumni or Student) and step through a streamlined 4-part profile questionnaire. They input their contact details, academic majors, graduation years, career goals or current professions, geographic locations, hobbies, and specific mentorship focus areas (such as tech entrepreneurship, wealth management, civil rights, or medicine).
+
 The Tinder-Style Swipe Deck: Instead of sorting through dry, static spreadsheets or rigid directory lists, users enter an interactive matching deck. The system computes dynamic compatibility scores and highlights key shared traits—such as matching majors, overlapping hometowns, or mutual hobby interests. Users can review rich profile cards to learn why they match, then tap a heart to express interest or pass with an X.
+
 Mutual-Match Reveal & Chat: When both parties express mutual interest, a celebratory match modal triggers immediately, securely unlocking contact info like email and phone numbers. From there, users transition straight into an integrated, real-time messaging system to coordinate schedules, ask for guidance, and build lasting professional relationships.
