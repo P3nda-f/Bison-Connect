@@ -1,4 +1,7 @@
-# Bison-Connect - https://p3nda-f.github.io/Bison-Connect/
+# Bison-Connect
+Site - https://p3nda-f.github.io/Bison-Connect/
+Demo - https://youtu.be/ViJUUrhWD0Y
+
 Bison Mentor Match links Howard University students with alumni mentors through an interactive platform. Users take a profile quiz and use a Tinder-like swipe feature for compatibility. Mutual matches enable direct communication, fostering professional relationships that enhance career development within the Bison community.
 
 Bison Mentor Match: Connecting the Mecca's Past, Present, and Future: 
